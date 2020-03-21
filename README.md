@@ -1,5 +1,5 @@
-# VIS_Tableau_Tutorial
-This Tutorial should teach you the basic principles of visualization and visual data analysis by using Tableau. Visualization allows us to **convey information** through visual representations. Some goals are *Insight and Analysis*, *Communication* and *Exploration*. We use Tableau because it allows people from different backgrounds to quickly create meaningful visualizations without programming skills (and it is free for students). Enjoy!
+# VIS Tableau Tutorial
+This Tutorial should teach you the basic principles of visualization and visual data analysis by using Tableau. Visualization allows us to **convey information** through visual representations. *Insight and Analysis*, *Communication* and *Exploration* are goals which can be reached by creating (interactive) visualizations. In this tutorial, we use [Tableau](https://www.tableau.com/) as visualization tool. Tableau provides an easy to use visualization interface which allows people from different backgrounds to quickly create meaningful visualizations without programming skills or a degree in computer science (and it is free for students). We hope you are going to enjoy the tutorial and learn some useful skills!
 
 
 This tutorial is used at the University of Vienna as teaching material for the [Visualisation and Visual Data Analysis](http://vda.univie.ac.at/Teaching/Vis/19w/schedule.html) and [Seminar in Statistics for Master Studies](https://ufind.univie.ac.at/en/course.html?lv=040222&semester=2020S) courses. Parts of it were used in the [Deep Learning and Visual Data Analysis](https://datascience.univie.ac.at/news-events/data-science-summer-school-uni-vienna-2018/) and [Data Science](https://datascience.univie.ac.at/news-events/detail-news/news/apply-for-data-science-summer-school-2019/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=540a4cf17156c02bfd8de9010b16453a) summer school.
@@ -36,4 +36,4 @@ Created by [Raphael Sahann](https://ufind.univie.ac.at/de/person.html?id=48278) 
    - side-by-side views, interaction, dashboard
    <!-- - [Slides](pdfs/Intro.pdf), [Video](https://youtu.be/XbpDjCeJQIk) -->
 
-If you find errors and have some feedback feel free to contact me!
+If you find errors or want to give some feedback, feel free to contact us.
