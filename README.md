@@ -14,7 +14,7 @@ Created by [Raphael Sahann](https://ufind.univie.ac.at/de/person.html?id=48278) 
 
 1. Data and Dataset
    - import dataset, first bar chart visualization, save workbook
-   - [Slides](pdfs/Data_and_Dataset.pdf), [Video](https://youtu.be/yaiqOr1yb3k), [Dataset](https://github.com/Christoph/Happiness-Teaching-Dataset)
+   - [Slides](pdfs/Data_and_Datasets.pdf), [Video](https://youtu.be/yaiqOr1yb3k), [Dataset](https://github.com/Christoph/Happiness-Teaching-Dataset)
 
 2. Dimensions and Measures
    - aggregation functions, continuous and discrete values, line chart
