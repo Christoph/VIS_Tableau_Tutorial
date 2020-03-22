@@ -22,7 +22,7 @@ Created by [Raphael Sahann](https://ufind.univie.ac.at/de/person.html?id=48278) 
 
 3. Marks and Channels
    - perception of position/size/color, scatterplot
-   - [Slides](pdfs/Marks_and_Channels.pdf), [Video](https://youtu.be/nP2xlMrebt8)
+   - [Slides](pdfs/Marks_Channels.pdf), [Video](https://youtu.be/nP2xlMrebt8)
 
 4. Geospatial Data
    - map visualization
