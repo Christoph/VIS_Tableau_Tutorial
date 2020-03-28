@@ -26,17 +26,14 @@ Created by [Raphael Sahann](https://ufind.univie.ac.at/de/person.html?id=48278) 
 
 4. Geospatial Data
    - map visualization
-   - [Slides](pdfs/Geospatial_Data.pdf),
-   <!-- - [Video](https://youtu.be/XbpDjCeJQIk) -->
+   - [Slides](pdfs/Geospatial_Data.pdf), [Video](https://youtu.be/sPoQnKNTiiI)
 
 5. Derived Attributes
-   - extend dataset, calculated fields
-   - [Slides](pdfs/Derived_Attributes.pdf),
-   <!-- - [Video](https://youtu.be/XbpDjCeJQIk) -->
+   - box plots, calculated fields
+   - [Slides](pdfs/Derived_Attributes.pdf), [Video](https://youtu.be/DWVj2h8_bKM)
 
 6. Faceting/Multiple Views
    - side-by-side views, interaction, dashboard
-   - [Slides](pdfs/Faceting.pdf),
-   <!-- - [Video](https://youtu.be/XbpDjCeJQIk) -->
+   - [Slides](pdfs/Faceting.pdf), [Video](https://youtu.be/RDWFYe0nbVI)
 
 If you find errors or want to give some feedback, feel free to contact us.
